@@ -64,13 +64,15 @@ Three agency-specific software systems, alongside a **Windows desktop applicatio
 
 #### ✦ Proprietary Membership Management System
 
-**Commercial software product · UAE**
+**Commercial software product · Independently developed and owned**
 
-A membership management solution developed as **individually owned intellectual property in the UAE**, with flexible commercial options: **annual subscription**, **business licensing / contractual agreements**, or **negotiated outright sale**.
+A proprietary membership management solution developed by **Tammam Bacheir**, designed for business membership programs and flexible commercial use. Potential business models include **annual subscriptions**, **licensing agreements**, **custom contracts**, or a **negotiated software sale**.
+
+Intellectual-property registration in the UAE is **planned but has not yet been applied for**.
 
 <details>
-  <summary>Commercial availability</summary>
-  <p>Subscription, licensing and acquisition terms are discussed individually based on business requirements and the agreed scope.</p>
+  <summary>Commercial opportunities</summary>
+  <p>Commercial models and terms are subject to discussion and agreement based on business needs and scope.</p>
 </details>
 
 #### ◈ E-commerce Store — In Development
