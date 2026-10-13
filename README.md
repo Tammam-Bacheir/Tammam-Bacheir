@@ -21,7 +21,7 @@
 
 ### <img src="https://img.shields.io/badge/01-ABOUT%20ME-12213A?style=flat-square&amp;color=22D3EE" alt="01 About Me" />  Building software that solves real problems
 
-I’m **Tammam Bacheir**, an independent developer focused on web applications, digital platforms, and end-to-end software projects using AI-assisted development workflows. I combine product thinking, interface design, implementation, and ongoing learning to turn ideas into useful digital experiences.
+I’m **Tammam Bacheir**, **Founder & Director of VALO2 Agency** and an independent software developer working on websites, desktop applications, business systems, and AI-assisted digital solutions. I take projects from early concept through design and implementation, with a focus on practical outcomes and continuous improvement.
 
 <table>
   <tr>
@@ -38,30 +38,44 @@ I’m **Tammam Bacheir**, an independent developer focused on web applications, 
   </tr>
 </table>
 
-### <img src="https://img.shields.io/badge/02-FEATURED%20PROJECTS-12213A?style=flat-square&amp;color=A78BFA" alt="02 Featured Projects" />  Selected work
+### <img src="https://img.shields.io/badge/02-FEATURED%20PROJECTS-12213A?style=flat-square&amp;color=A78BFA" alt="02 Featured Projects" />  Selected products & projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>✦ VALO2 Agency</h3>
-      <p><strong>Digital Services Web Platform</strong></p>
-      <p>A digital-services agency platform designed to present offerings and receive project inquiries. The reviewed source uses a modern Next.js and React architecture with TypeScript and Tailwind CSS, plus Netlify deployment configuration.</p>
-      <p><img alt="Next.js" src="https://img.shields.io/badge/Next.js-161D32?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white"/> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-161D32?style=flat-square&amp;logo=typescript&amp;logoColor=60A5FA"/> <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-161D32?style=flat-square&amp;logo=tailwindcss&amp;logoColor=22D3EE"/></p>
-      <a href="https://www.instagram.com/valo2_agency/"><img alt="VALO2 agency updates on Instagram" src="https://img.shields.io/badge/AGENCY-UPDATES-2563EB?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" /></a>
-      <details><summary>Explore technical context</summary><p>Inspection identified Next.js, React, TypeScript, Tailwind CSS, and deployment configuration for Netlify. Live production behavior has not been verified.</p></details>
-    </td>
-    <td width="50%" valign="top">
-      <h3>✦ Souq Al Bashan</h3>
-      <p><strong>Regional Commerce Platform</strong></p>
-      <p>A commerce platform project covering customer, seller, delivery, and administration workflows. Reviewed code includes React, TypeScript, Vite, Supabase integration, and PostgreSQL-related SQL migrations.</p>
-      <p><img alt="React" src="https://img.shields.io/badge/React-161D32?style=flat-square&amp;logo=react&amp;logoColor=61DAFB"/> <img alt="Supabase" src="https://img.shields.io/badge/Supabase-161D32?style=flat-square&amp;logo=supabase&amp;logoColor=4ADE80"/> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-161D32?style=flat-square&amp;logo=postgresql&amp;logoColor=93C5FD"/></p>
-      <img alt="Project under active development" src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-334155?style=for-the-badge&amp;logo=git&amp;logoColor=white" />
-      <details><summary>Explore technical context</summary><p>Reviewed code references React Router, TanStack Query, Zustand, and multi-role application modules. Production readiness and deployed user flows have not been tested.</p></details>
-    </td>
-  </tr>
-</table>
+#### ✦ VALO2 Agency — Founder & Director
 
-<p align="center"><sub>Public source links and demos will be included when available and verified.</sub></p>
+**Digital services agency and official website**
+
+I founded and manage **VALO2 Agency**, combining digital services, software development, and AI-assisted workflows to create practical solutions for businesses.
+
+🌐 **Website:** [valo2.com](https://valo2.com)
+
+#### ✦ Al Farabi Medical Centre — Website
+
+**Medical centre web presence**
+
+A website project for **Al Farabi Medical Centre**, supporting the centre’s digital presence and presentation of its services.
+
+🌐 **Website:** [alfarabimc.com](https://alfarabimc.com)
+
+#### ✦ VALO2 Internal Software — Three Systems + Windows Application
+
+**Internal business software**
+
+Three agency-specific software systems, alongside a **Windows desktop application**, developed to support VALO2's internal workflows. Product-specific names and public demonstrations can be added separately.
+
+#### ✦ Proprietary Membership Management System
+
+**Commercial software product · UAE**
+
+A membership management solution developed as **individually owned intellectual property in the UAE**, with flexible commercial options: **annual subscription**, **business licensing / contractual agreements**, or **negotiated outright sale**.
+
+<details>
+  <summary>Commercial availability</summary>
+  <p>Subscription, licensing and acquisition terms are discussed individually based on business requirements and the agreed scope.</p>
+</details>
+
+#### ◈ E-commerce Store — In Development
+
+An e-commerce project currently under development. Its public showcase and technical details will be added when ready.
 
 ### <img src="https://img.shields.io/badge/03-TECH%20STACK-12213A?style=flat-square&amp;color=38BDF8" alt="03 Tech Stack" />  Technologies used in reviewed projects
 
@@ -88,7 +102,7 @@ I’m **Tammam Bacheir**, an independent developer focused on web applications, 
   <img src="https://img.shields.io/badge/Netlify-111827?style=for-the-badge&amp;logo=netlify&amp;logoColor=00C7B7" alt="Netlify" />
 </div>
 
-<p align="center"><sub>Stack taken from project files; this list describes project technologies, not a verified proficiency level in every tool.</sub></p>
+
 
 ### <img src="https://img.shields.io/badge/04-HOW%20I%20BUILD-12213A?style=flat-square&amp;color=67E8F9" alt="04 How I Build" />  Product workflow
 
@@ -106,9 +120,10 @@ I’m **Tammam Bacheir**, an independent developer focused on web applications, 
 
 <div align="center">
   <h3>Have a project or collaboration in mind?</h3>
-  <p>I'm interested in practical web products, software projects, and AI-assisted digital solutions.</p>
+  <p>For business inquiries, software solutions, agency collaborations, or membership system licensing, get in touch.</p>
   <a href="mailto:info@valo2.com"><img src="https://img.shields.io/badge/SEND%20AN%20EMAIL-info%40valo2.com-2563EB?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send a business inquiry" /></a>
   <a href="https://www.instagram.com/valo2_agency/"><img src="https://img.shields.io/badge/INSTAGRAM-VALO2%20AGENCY-7C3AED?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="VALO2 Instagram" /></a>
+  <a href="tel:+971559240700"><img src="https://img.shields.io/badge/CALL-+971%2055%20924%200700-0F766E?style=for-the-badge&amp;logo=phone&amp;logoColor=white" alt="Call +971 55 924 0700" /></a>
   <br /><br />
   <sub><strong>Tammam Bacheir</strong> · Engineering ideas into practical digital products.</sub>
 </div>
